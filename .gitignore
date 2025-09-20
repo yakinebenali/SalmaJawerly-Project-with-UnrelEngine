@@ -1,0 +1,25 @@
+# Unreal Engine
+/Binaries/*
+/Build/*
+/Intermediate/*
+/DerivedDataCache/*
+/Saved/*
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.VC.opendb
+
+# Fichiers de configuration locaux
+/Config/*.ini
+
+# Fichiers de logs et caches
+*.log
+*.backup
+/Saved/webcache_4430/*
+/.vs/
+
+# Fichiers spécifiques à Diversion
+.diversion/
+*.dvignore
